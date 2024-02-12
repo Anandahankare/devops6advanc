@@ -2,3 +2,6 @@ this are git commands
 git add
 git init
 git log
+git restore
+git status
+git commit
