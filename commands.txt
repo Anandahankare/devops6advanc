@@ -1,0 +1,4 @@
+this are git commands
+git add
+git init
+git log
